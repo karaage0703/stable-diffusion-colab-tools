@@ -19,3 +19,14 @@ Introduce awesome notebooks
 | Notebook  | Description | Author |
 |:-|:-|:-|
 | [image_2_image_using_diffusers.ipynb](https://colab.research.google.com/github/patil-suraj/Notebooks/blob/master/image_2_image_using_diffusers.ipynb)  | Image2Image | [cedro3](https://github.com/cedro3) |
+
+## References
+
+Please see [REFERENCES](REFERENCES.md).
+
+
+## License
+This Project Page  is released under the MIT License, see LICENSE.
+
+This does not include the license for Google Colaboratory Notebook, which is linked here.
+Please check with the respective links.
