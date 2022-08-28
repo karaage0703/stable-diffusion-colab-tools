@@ -10,7 +10,7 @@ All colab notebook
 
 | Notebook  | Description |
 |:-|:-|
-| [001_stable_diffusion_gui_basic.ipynb](https://colab.research.google.com/drive/1g-2TEIk-nlwn3ALhUpSfXrqQRv6QTudN?usp=sharing)  | Basic GUI Tool |
+| [001_stable_diffusion_gui_basic.ipynb](001_stable_diffusion_gui_basic.ipynb)  | Basic GUI Tool |
 
 
 ## Awesome notebook
