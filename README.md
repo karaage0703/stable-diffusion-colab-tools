@@ -18,7 +18,7 @@ Introduce awesome notebooks
 
 | Notebook  | Description | Author |
 |:-|:-|:-|
-| [image_2_image_using_diffusers.ipynb](https://colab.research.google.com/github/patil-suraj/Notebooks/blob/master/image_2_image_using_diffusers.ipynb)  | Image2Image | [cedro3](https://github.com/cedro3) |
+| [Stable_Diffusion2.ipynb](https://github.com/cedro3/others2/blob/main/Stable_Diffusion2.ipynb)  | Image2Image | [cedro3](https://github.com/cedro3) |
 
 ## References
 
