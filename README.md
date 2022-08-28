@@ -23,10 +23,3 @@ Introduce awesome notebooks
 ## References
 
 Please see [REFERENCES](REFERENCES.md).
-
-
-## License
-This Project Page  is released under the MIT License, see LICENSE.
-
-This does not include the license for Google Colaboratory Notebook, which is linked here.
-Please check with the respective links.
