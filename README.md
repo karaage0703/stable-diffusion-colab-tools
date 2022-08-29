@@ -11,6 +11,7 @@ All colab notebook
 | Notebook  | Description |
 |:-|:-|
 | [001_stable_diffusion_gui_basic.ipynb](001_stable_diffusion_gui_basic.ipynb)  | Basic GUI Tool |
+| [002_latents_space_walker.ipynb](002_latents_space_walker.ipynb)  | Make movie of random Walking in latents space |
 
 
 ## Awesome notebook
