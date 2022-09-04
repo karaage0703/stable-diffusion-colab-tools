@@ -21,6 +21,8 @@ Introduce awesome notebooks
 | Notebook  | Description | Author |
 |:-|:-|:-|
 | [Stable_Diffusion2.ipynb](https://github.com/cedro3/others2/blob/main/Stable_Diffusion2.ipynb)  | Image2Image | [cedro3](https://github.com/cedro3) |
+| [Stable_Diffusion_Helper.ipynb](https://github.com/fladdict/stable-diffusion/blob/main/Stable_Diffusion_Helper.ipynb)  | Text2Image/Image2Image Awesome notebook!! | [fladdict](https://twitter.com/fladdict) |
+
 
 ## References
 
