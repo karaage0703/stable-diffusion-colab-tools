@@ -8,6 +8,7 @@
 ## GitHub Link
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/huggingface/diffusers
+- https://github.com/altryne/sd-webui-colab
 
 
 ## My site link
