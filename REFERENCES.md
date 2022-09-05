@@ -9,6 +9,7 @@
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/huggingface/diffusers
 - https://github.com/altryne/sd-webui-colab
+- https://github.com/andreasjansson/cog-stable-diffusion
 
 
 ## My site link
