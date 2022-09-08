@@ -10,11 +10,14 @@
 - https://github.com/huggingface/diffusers
 - https://github.com/altryne/sd-webui-colab
 - https://github.com/andreasjansson/cog-stable-diffusion
+- https://github.com/xinntao/Real-ESRGAN
 
 
 ## My site link
 - [Midjourney/Stable Diffusionの書 〜呪文詠唱して画像生成〜](https://zenn.dev/karaage0703/scraps/f84c98a8b78290)
 - [Stable Diffusionのサンプルコード(text2img/img2img)をGoogle Colabで動かす方法](https://zenn.dev/karaage0703/articles/22ee47b71fab9c)
+- [Stable DiffusionをローカルのGPU無しのWindows PC(Intel CPU)で動かす方法](https://zenn.dev/karaage0703/articles/4901bf68536907)
+- [Stable DiffusionでSeedを固定して同じ絵を生成できるのか問題を検証](https://zenn.dev/karaage0703/articles/946d4566e5f7f6)
 
 ## Web link
 - [Stable Diffusion のプロンプトで意味の足し算・引き算をする](https://zenn.dev/td2sk/articles/eb772103a3a8ff)
