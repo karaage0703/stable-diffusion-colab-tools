@@ -11,6 +11,7 @@
 - https://github.com/altryne/sd-webui-colab
 - https://github.com/andreasjansson/cog-stable-diffusion
 - https://github.com/xinntao/Real-ESRGAN
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 
 ## My site link
