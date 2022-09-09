@@ -15,6 +15,7 @@
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## Huggingface Link
+- https://huggingface.co/hakurei/waifu-diffusion
 - https://huggingface.co/rinna/japanese-stable-diffusion
 
 
