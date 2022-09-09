@@ -5,7 +5,7 @@
 - [stable-diffusion-seeds.ipynb](https://colab.research.google.com/github/pcuenca/diffusers-examples/blob/main/notebooks/stable-diffusion-seeds.ipynb)
 - [Stable_Diffusion_WebUi_Simplified.ipynb](https://github.com/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb)
 - [Text2Image pipeline for Japanese Stabel Diffusion](https://colab.research.google.com/github/rinnakk/japanese-stable-diffusion/blob/master/scripts/txt2img.ipynb)
-- [Stable Diffusion morphing]([https://t.co/FAfCdLj8qz](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb))
+- [Stable Diffusion morphing](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb)
 
 ## GitHub Link
 - https://github.com/CompVis/stable-diffusion
