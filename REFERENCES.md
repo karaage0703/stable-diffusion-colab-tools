@@ -17,6 +17,7 @@
 ## Huggingface Link
 - https://huggingface.co/hakurei/waifu-diffusion
 - https://huggingface.co/rinna/japanese-stable-diffusion
+- https://huggingface.co/spaces/huggingface/diffuse-the-rest
 
 
 ## My site link
