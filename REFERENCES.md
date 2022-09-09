@@ -4,6 +4,7 @@
 - [image-2-image using diffusers](https://colab.research.google.com/github/patil-suraj/Notebooks/blob/master/image_2_image_using_diffusers.ipynb)
 - [stable-diffusion-seeds.ipynb](https://colab.research.google.com/github/pcuenca/diffusers-examples/blob/main/notebooks/stable-diffusion-seeds.ipynb)
 - [Stable_Diffusion_WebUi_Simplified.ipynb](https://github.com/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb)
+- [Text2Image pipeline for Japanese Stabel Diffusion](https://colab.research.google.com/github/rinnakk/japanese-stable-diffusion/blob/master/scripts/txt2img.ipynb)
 
 ## GitHub Link
 - https://github.com/CompVis/stable-diffusion
@@ -12,6 +13,9 @@
 - https://github.com/andreasjansson/cog-stable-diffusion
 - https://github.com/xinntao/Real-ESRGAN
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+## Huggingface Link
+- https://huggingface.co/rinna/japanese-stable-diffusion
 
 
 ## My site link
