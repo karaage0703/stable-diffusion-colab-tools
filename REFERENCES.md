@@ -6,6 +6,8 @@
 - [Stable_Diffusion_WebUi_Simplified.ipynb](https://github.com/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb)
 - [Text2Image pipeline for Japanese Stabel Diffusion](https://colab.research.google.com/github/rinnakk/japanese-stable-diffusion/blob/master/scripts/txt2img.ipynb)
 - [Stable Diffusion morphing](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb)
+- [Stable Diffusionまるわかり! パート1 -- Grokking Stable Diffusion](https://colab.research.google.com/github/tomo-makes/sd-notebooks/blob/master/Grokking_Stable_Diffusion_ja.ipynb)
+- [Stable Diffusion丸わかり パート2 Text Inversion編](https://colab.research.google.com/github/tomo-makes/sd-notebooks/blob/master/Grokking_Stable_Diffusion_Part2_ja.ipynb)
 
 ## GitHub Link
 - https://github.com/CompVis/stable-diffusion
