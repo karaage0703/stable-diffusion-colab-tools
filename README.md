@@ -14,6 +14,7 @@ All colab notebook
 | [002_latents_space_walker.ipynb](002_latents_space_walker.ipynb)  | Make movie of random walking in latents space |
 | [003_stable_diffusion_gui_ERNIE-ViLG.ipynb](./003_stable_diffusion_gui_ERNIE_ViLG.ipynb)  | GUI Tool ERNIE-ViLG version |
 | [004_prompt_checker.ipynb](./004_prompt_checker.ipynb)  | Checker of Prompt ([Usage in Japanese](https://zenn.dev/karaage0703/articles/0c15cc7a86eae1)) |
+| [005_prompt_analytics.ipynb](./005_prompt_checker.ipynb)  | Prompt analytics ([Usage in Japanese](https://zenn.dev/karaage0703/articles/d4b4bbf4a04cb6)) |
 
 
 ## Awesome notebook
