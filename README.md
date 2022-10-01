@@ -28,9 +28,7 @@ Introduce awesome notebooks
 | [StableDiffusionUI-Voldemort.ipynb](https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh)  | StableDiffusionUI-Voldemort | [AUTOMATIC1111](https://github.com/AUTOMATIC1111) |
 | [Grokking Stable Diffusion.ipynb](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)  | Grokking Stable Diffusion | [johnowhitaker](https://twitter.com/johnowhitaker) |
 | [Grokking SD Part 2: Textual Inversion.ipynb](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing)  | Grokking SD Part 2: Textual Inversion.ipynb | [johnowhitaker](https://twitter.com/johnowhitaker) |
-
-
-
+| [dreambooth](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)  | Finetuning(Dream booth) | [@shivamshrirao](https://twitter.com/ShivamShrirao) |
 
 
 ## References
