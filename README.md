@@ -30,7 +30,7 @@ Introduce awesome notebooks
 | [Grokking SD Part 2: Textual Inversion.ipynb](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing)  | Grokking SD Part 2: Textual Inversion.ipynb | [johnowhitaker](https://twitter.com/johnowhitaker) |
 | [dreambooth](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)  | Finetuning(Dream booth) | [@shivamshrirao](https://twitter.com/ShivamShrirao) |
 | [Robo-Diffusion](https://github.com/nousr/robo-diffusion)  | Finetuning with robot | [@nousr_](https://twitter.com/nousr_) |
-
+| [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | Text2Music | [Mubert](https://github.com/MubertAI) | 
 
 ## References
 
