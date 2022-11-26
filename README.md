@@ -16,6 +16,7 @@ All colab notebook
 | [004_prompt_checker.ipynb](./004_prompt_checker.ipynb)  | Checker of Prompt ([Usage in Japanese](https://zenn.dev/karaage0703/articles/0c15cc7a86eae1)) |
 | [005_prompt_analytics.ipynb](./005_prompt_analytics.ipynb)  | Prompt analytics ([Usage in Japanese](https://zenn.dev/karaage0703/articles/d4b4bbf4a04cb6)) |
 | [006_whisper_voice_recognition_stable_diffusion.ipynb](./006_whisper_voice_recognition_stable_diffusion.ipynb)  | Whisper voice recognition with stable diffusion |
+| [007_whisper_voice_recognition_stable_diffusion.ipynb](./007_stable_diffusion_gui_basic_2_0.ipynb)  | Whisper voice recognition with stable diffusion |
 
 
 ## Awesome notebook
