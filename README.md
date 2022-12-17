@@ -28,8 +28,8 @@ Introduce awesome notebooks
 | [Stable_Diffusion_Helper.ipynb](https://github.com/fladdict/stable-diffusion/blob/main/Stable_Diffusion_Helper.ipynb)  | Text2Image/Image2Image Awesome notebook!! | [fladdict](https://twitter.com/fladdict) |
 | [finetune_stable.ipynb](https://colab.research.google.com/drive/1Zqeig0Aap-wdmTPDXqDQIHwt5kxYmN5R?usp=sharing)  | Finetuning notebook | [birdMan](https://twitter.com/birdMan710Nika) |
 | [StableDiffusionUI-Voldemort.ipynb](https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh)  | StableDiffusionUI-Voldemort | [AUTOMATIC1111](https://github.com/AUTOMATIC1111) |
-| [Grokking Stable Diffusion.ipynb](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)  | Grokking Stable Diffusion | [johnowhitaker](https://twitter.com/johnowhitaker) |
-| [Grokking SD Part 2: Textual Inversion.ipynb](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing)  | Grokking SD Part 2: Textual Inversion.ipynb | [johnowhitaker](https://twitter.com/johnowhitaker) |
+| [Grokking Stable Diffusion.ipynb](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)  | Grokking Stable Diffusion | [@johnowhitaker](https://twitter.com/johnowhitaker) |
+| [Grokking SD Part 2: Textual Inversion.ipynb](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing)  | Grokking SD Part 2: Textual Inversion.ipynb | [@johnowhitaker](https://twitter.com/johnowhitaker) |
 | [dreambooth](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)  | Finetuning(Dream booth) | [@shivamshrirao](https://twitter.com/ShivamShrirao) |
 | [Robo-Diffusion](https://github.com/nousr/robo-diffusion)  | Finetuning with robot | [@nousr_](https://twitter.com/nousr_) |
 | [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | Text2Music | [Mubert](https://github.com/MubertAI) | 
