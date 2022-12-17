@@ -16,6 +16,7 @@
 - https://github.com/andreasjansson/cog-stable-diffusion
 - https://github.com/xinntao/Real-ESRGAN
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/heejkoo/Awesome-Diffusion-Models
 
 ## Huggingface Link
 - https://huggingface.co/hakurei/waifu-diffusion
