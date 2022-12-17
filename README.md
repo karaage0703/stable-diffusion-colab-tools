@@ -33,6 +33,7 @@ Introduce awesome notebooks
 | [dreambooth](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)  | Finetuning(Dream booth) | [@shivamshrirao](https://twitter.com/ShivamShrirao) |
 | [Robo-Diffusion](https://github.com/nousr/robo-diffusion)  | Finetuning with robot | [@nousr_](https://twitter.com/nousr_) |
 | [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | Text2Music | [Mubert](https://github.com/MubertAI) | 
+| [sample-code-for-deepcool.ipynb](https://colab.research.google.com/gist/alfredplpl/729f78163bc55e531cdebe801438f340/sample-code-for-deepcool.ipynb) | Text2Music | [@alfredplpl](https://twitter.com/alfredplpl) | 
 
 ## References
 
