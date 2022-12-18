@@ -34,6 +34,9 @@ Introduce awesome notebooks
 | [Robo-Diffusion](https://github.com/nousr/robo-diffusion)  | Finetuning with robot | [@nousr_](https://twitter.com/nousr_) |
 | [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | Text2Music | [Mubert](https://github.com/MubertAI) | 
 | [sample-code-for-deepcool.ipynb](https://colab.research.google.com/gist/alfredplpl/729f78163bc55e531cdebe801438f340/sample-code-for-deepcool.ipynb) | Image2Text | [@alfredplpl](https://twitter.com/alfredplpl) | 
+| [riffusion.ipynb](https://colab.research.google.com/drive/1FhH3HlN8Ps_Pr9OR6Qcfbfz7utDvICl0?usp=sharing) | Text2Music | [Jasper](https://twitter.com/0xjasper) | 
+
+
 
 ## References
 
