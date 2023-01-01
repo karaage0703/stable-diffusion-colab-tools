@@ -36,6 +36,7 @@ Introduce awesome notebooks
 | [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | Text2Music | [Mubert](https://github.com/MubertAI) | 
 | [sample-code-for-deepcool.ipynb](https://colab.research.google.com/gist/alfredplpl/729f78163bc55e531cdebe801438f340/sample-code-for-deepcool.ipynb) | Image2Text | [@alfredplpl](https://twitter.com/alfredplpl) | 
 | [riffusion.ipynb](https://colab.research.google.com/drive/1FhH3HlN8Ps_Pr9OR6Qcfbfz7utDvICl0?usp=sharing) | Text2Music | [Jasper](https://twitter.com/0xjasper) | 
+| [Stable Diffusion Deep Dive.ipynb](https://github.com/fastai/diffusion-nbs/blob/master/Stable%20Diffusion%20Deep%20Dive.ipynb) | Deep Dive to Stable Diffusion(Good Tutorial) | [fastai](https://github.com/fastai) | 
 
 
 
