@@ -37,6 +37,8 @@ Introduce awesome notebooks
 | [sample-code-for-deepcool.ipynb](https://colab.research.google.com/gist/alfredplpl/729f78163bc55e531cdebe801438f340/sample-code-for-deepcool.ipynb) | Image2Text | [@alfredplpl](https://twitter.com/alfredplpl) | 
 | [riffusion.ipynb](https://colab.research.google.com/drive/1FhH3HlN8Ps_Pr9OR6Qcfbfz7utDvICl0?usp=sharing) | Text2Music | [Jasper](https://twitter.com/0xjasper) | 
 | [Stable Diffusion Deep Dive.ipynb](https://github.com/fastai/diffusion-nbs/blob/master/Stable%20Diffusion%20Deep%20Dive.ipynb) | Deep Dive to Stable Diffusion(Good Tutorial) | [fastai](https://github.com/fastai) | 
+| [Custom_Depth_to_Image_Playground.ipynb](https://colab.research.google.com/github/discus0434/custom-depth2image-playground/blob/main/Custom_Depth_to_Image_Playground.ipynb) | Depth-to-Image Model ([Memo](https://zenn.dev/discus0434/articles/ef418a8b0b3dc0)) | [@_determina_](https://twitter.com/_determina_) | 
+
 
 
 
