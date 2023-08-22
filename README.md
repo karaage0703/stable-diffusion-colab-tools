@@ -18,6 +18,7 @@ All colab notebook
 | [006_whisper_voice_recognition_stable_diffusion.ipynb](./006_whisper_voice_recognition_stable_diffusion.ipynb)  | Whisper voice recognition with stable diffusion |
 | [007_stable_diffusion_gui_basic_2_0.ipynb](./007_stable_diffusion_gui_basic_2_0.ipynb)  | Basic GUI Tool with stable diffusion 2.0 |
 | [008_text_to_world.ipynb](./008_text_to_world.ipynb)  | Text-to-World by using GA(Genetic Algorithm) like algorithm |
+| [009_japanese_instruct_blip_alpha.ipynb](./009_japanese_instruct_blip_alpha.ipynb)  | Multimodal Search |
 
 
 ## Awesome notebook
